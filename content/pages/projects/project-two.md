@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: use our lab
-colors: colors-d
+colors: colors-b
 date: '2024-10-06'
 client: ''
 description: >-
