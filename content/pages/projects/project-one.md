@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-10-06'
 client: ''
 description: >-
-  We run monthly Lab club in Glasgow and workshops throughout the year in
+  We run a monthly Lab club in Glasgow and workshops throughout the year in
   various locations. 
 featuredImage:
   type: ImageBlock
