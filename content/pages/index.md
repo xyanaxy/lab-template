@@ -16,7 +16,7 @@ sections:
       emerging technology. 
     subtitle: >-
       We provide opportunities to learn and participate in shaping future
-      technologies by providing space, materials and facilities. 
+      technologies by providing facilities, consulations and workshops.
     actions: []
     colors: colors-f
     backgroundSize: full
@@ -83,11 +83,11 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Past and Upcoming activities
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: All activities
         url: /blog
     posts:
       - content/pages/blog/post-six.md
