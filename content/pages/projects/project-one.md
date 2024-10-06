@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 3D&immersive enviroments
 colors: colors-a
-date: ''
+date: '2024-10-06'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
