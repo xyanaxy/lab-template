@@ -12,8 +12,8 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      Fab Lab at ysotopic xpecies is a space to inspire people to engage with
-      emerging technology. 
+      Lab at ysotopic xpecies is a space to inspire people to engage with
+      emerging technology.
     subtitle: >-
       We provide opportunities to learn and participate in shaping future
       technologies by providing facilities, consulations and workshops.
