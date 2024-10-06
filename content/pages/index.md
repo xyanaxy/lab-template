@@ -83,7 +83,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: past and upcoming activities
     showFeaturedImage: false
     actions:
       - type: Link
