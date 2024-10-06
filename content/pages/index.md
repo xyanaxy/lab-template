@@ -27,7 +27,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-48
+          - pb-20
           - pl-4
           - pr-4
         alignItems: center
@@ -42,6 +42,17 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-5
+          - pb-5
+        justifyContent: center
+        borderWidth: 1
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -80,6 +91,17 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: What we do ☺
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-1
+          - pb-1
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
