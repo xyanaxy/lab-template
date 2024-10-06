@@ -16,7 +16,7 @@ sections:
       emerging technology. 
     subtitle: >-
       We provide opportunities to learn and participate in shaping future
-      technologies by providing space, materials and facilities. 
+      technologies by providing facilities, consulations and workshops.
     actions: []
     colors: colors-f
     backgroundSize: full
