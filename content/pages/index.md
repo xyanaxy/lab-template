@@ -87,7 +87,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all activities
+        label: All activities
         url: /blog
     posts:
       - content/pages/blog/post-six.md
