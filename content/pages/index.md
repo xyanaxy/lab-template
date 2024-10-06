@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: What we do
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
