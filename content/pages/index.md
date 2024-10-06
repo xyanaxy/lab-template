@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'What we do '
+    subtitle: What we do ☺
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
