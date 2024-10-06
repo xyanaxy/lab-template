@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 3D&immersive enviroments
+title: workshops
 colors: colors-a
 date: '2024-10-06'
 client: ''
