@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: web&creative  coding
+title: weekend club
 colors: colors-a
 date: '2024-10-06'
 client: ''
