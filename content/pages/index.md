@@ -50,7 +50,7 @@ sections:
         width: full
         padding:
           - pt-5
-          - pb-36
+          - pb-5
         justifyContent: center
         borderWidth: 1
   - colors: colors-f
