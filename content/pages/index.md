@@ -83,7 +83,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: past and upcoming activities
+    subtitle: Past and Upcoming activities
     showFeaturedImage: false
     actions:
       - type: Link
