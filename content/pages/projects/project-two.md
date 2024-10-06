@@ -4,7 +4,7 @@ title: use our lab
 colors: colors-b
 date: '2024-10-06'
 client: ''
-description: ''
+description: 'You can book to use Lab facilities in Glasgow. '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
