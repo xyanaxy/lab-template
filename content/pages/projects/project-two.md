@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Physical computing
-colors: colors-a
+colors: colors-c
 date: '2024-10-06'
 client: ''
 description: ''
