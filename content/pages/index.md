@@ -99,7 +99,7 @@ sections:
         width: full
         padding:
           - pt-1
-          - pb-36
+          - pb-1
         justifyContent: center
         borderWidth: 1
   - type: FeaturedPostsSection
