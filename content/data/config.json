@@ -85,7 +85,7 @@
         "copyrightText": "[ysotopic xpecies](www.ysotopicxpecies.com)\n",
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "narrow",
                 "padding": [
                     "pt-16",
                     "pb-16",
