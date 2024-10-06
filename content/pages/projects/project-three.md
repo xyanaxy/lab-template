@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: creative coding
 colors: colors-a
-date: '2022-01-10'
+date: '2022-10-10'
 client: Awesome client
 description: ''
 featuredImage:
