@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info"
+                "url": "/info",
+                "icon": "apple"
             },
             {
                 "type": "Link",
@@ -88,7 +89,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
