@@ -4,7 +4,9 @@ title: consultations
 colors: colors-a
 date: '2024-10-06'
 client: ''
-description: 'You can book a consulation with us. Free consulations happening once a month. '
+description: >-
+  You can book a consulation with us. Free consulations happening once a month
+  online and in person.  
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
