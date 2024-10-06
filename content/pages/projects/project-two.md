@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Physical computing
 colors: colors-a
-date: ''
+date: '2024-10-06'
 client: ''
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
