@@ -19,7 +19,7 @@
                 "type": "Link",
                 "label": "Projects",
                 "url": "/projects",
-                "icon": "arrowRightCircle",
+                "icon": "",
                 "showIcon": false
             },
             {
