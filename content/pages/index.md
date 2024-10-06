@@ -15,9 +15,8 @@ sections:
       Fab Lab at ysotopic xpecies is a space to inspire people to engage wtih
       emerging technology. 
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      We provide opportunities to learn and participate in shaping future
+      technologies by providing space and facilities to 
     actions: []
     colors: colors-f
     backgroundSize: full
