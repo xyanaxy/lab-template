@@ -1,0 +1,75 @@
+{
+    "model": "Footer",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "blue",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "blue"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "primaryLinks": [
+                    {
+                        "$$type": "Link",
+                        "label": "Info",
+                        "altText": "",
+                        "url": "/info",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Contact",
+                        "altText": "",
+                        "url": "mailto:lab@ysotopicxpecies.com",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Blog",
+                        "altText": "",
+                        "url": "/blog",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    }
+                ],
+                "contacts": {
+                    "$$type": "ContactBlock",
+                    "title": "Contact details",
+                    "phoneNumber": "",
+                    "phoneAltText": "My phone number",
+                    "email": "lab@ysotopicxpecies.com",
+                    "emailAltText": "My email",
+                    "address": "3 Ross Street, Glasgow, G1 5AR ",
+                    "addressAltText": "My address",
+                    "elementId": null
+                },
+                "copyrightText": "[ysotopic xpecies](www.ysotopicxpecies.com)\n",
+                "styles": {
+                    "self": {
+                        "width": "narrow",
+                        "padding": [
+                            "pt-16",
+                            "pb-16",
+                            "pr-4",
+                            "pl-4"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/footer-blue-acca.png"
+        }
+    ]
+}
