@@ -10,6 +10,37 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: HeroSection
+    title: >-
+      Fab Lab at ysotopic xpecies is a space to inspire people to engage with
+      emerging technology. 
+    subtitle: >-
+      We provide opportunities to learn and participate in shaping future
+      technologies by providing space, materials and facilities. 
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
