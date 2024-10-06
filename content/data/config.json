@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "info",
                 "url": "/info",
-                "icon": "apple",
+                "icon": "arrowUpRight",
                 "showIcon": true
             },
             {
