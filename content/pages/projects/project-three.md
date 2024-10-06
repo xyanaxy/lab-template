@@ -3,7 +3,7 @@ type: ProjectLayout
 title: web&creative  coding
 colors: colors-a
 date: '2024-10-06'
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
