@@ -1,10 +1,12 @@
 ---
 type: ProjectLayout
-title: Physical computing
+title: use our lab
 colors: colors-b
 date: '2024-10-06'
 client: ''
-description: ''
+description: >-
+  You can book to use Lab facilities in Glasgow. Check booking information and
+  equipment here.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
