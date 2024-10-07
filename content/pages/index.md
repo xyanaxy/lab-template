@@ -113,9 +113,7 @@ sections:
         label: All activities
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
