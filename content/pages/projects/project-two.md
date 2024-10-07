@@ -15,7 +15,7 @@ featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: altText of the image
-  caption: Caption of the image
+  caption: USE OUR LAB
   elementId: ''
 ---
 
