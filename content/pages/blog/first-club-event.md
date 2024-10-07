@@ -2,9 +2,7 @@
 type: PostLayout
 title: First Lab in Glasgow
 date: '2024-11-03'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Join us for the first edition of the Lab in Glasgow!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
