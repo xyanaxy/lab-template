@@ -114,6 +114,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-four.md
+      - content/pages/blog/first-club-event.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
