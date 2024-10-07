@@ -12,11 +12,7 @@ featuredImage:
   url: /images/bg1.jpg
   altText: Project thumbnail image
 ---
-
-
-
-
-Currently our Club events are limited to 5 people per session to make them free for everyone. The clubs are intented mainly for beginners or people with little experience. 
+Currently our Club events are limited to 5 people per session to make them free for everyone. The clubs are intented mainly for beginners or people with little experience. People from different backgrounds are welcome to join. If you want to share your knowledge - please come as well, everyone is welcome!
 
 > Please sing up for the club here:
 
@@ -29,3 +25,6 @@ Our Lab club and workshops are held on a variety of topics. More specifically th
 *   3d, immersive and motion (3d scanning, photogrammery, blender, after effects, video prodiction, etc.)
 
 We are also interested in bioart, fermentation, chemistry, fashion and crafts.
+
+#### You can book us to run a workshop at your event or venue. Please get in touch via email or contact form.
+
