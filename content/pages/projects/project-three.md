@@ -20,19 +20,14 @@ If you are interested in a consultation about how you can use emerging technolog
 
 *   you want to make your own portfolio website and don't know where to start
 
-*   you are afraid to start using Visual Studio and GitHub 
+*   you are afraid to start using Visual Studio and GitHub
 
 *   you want to set up a domain and custom email for yourself
 
-*   you want to learn more about scientific research
+*   you want to learn more about scientific research in arts
 
 *   everything and anything inbetween and more:)
 
 Free consulations are hapenning once a month. Please book your free consultation here:
 
-
-
 You can have a payed constulation about a specific topic that concerns you with us or we will match you with a professional in the field, who will help you. Please contact us about rates via email or contact form.
-
-
-
