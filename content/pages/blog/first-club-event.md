@@ -5,7 +5,7 @@ date: '2024-11-03'
 excerpt: Join us for the first edition of the Lab in Glasgow!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/post-4.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
