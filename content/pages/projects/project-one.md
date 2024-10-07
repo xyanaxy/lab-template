@@ -12,11 +12,11 @@ featuredImage:
   url: /images/bg1.jpg
   altText: Project thumbnail image
 ---
-Currently our Club events are limited to 5 people per session to make them free for everyone. The clubs are intented mainly for beginners or people with little experience. People from different backgrounds are welcome to join. If you want to share your knowledge - please come as well, everyone is welcome!
+Currently our Lab Club events are limited to 5 people per session to make them free for everyone. The Club is intented mainly for beginners or people with little experience. People from different backgrounds are welcome to join. If you want to share your knowledge - please come as well, everyone is welcome!
 
 > Please sing up for the club here:
 
-Our Lab club and workshops are held on a variety of topics. More specifically they are focused around:
+Our Lab Club and workshops are held on a variety of topics. More specifically they are focused around:
 
 *   physical computing (arduino, raspberry pi, custom boards, physical installation, soldering, etc.)
 
