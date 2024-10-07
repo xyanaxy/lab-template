@@ -26,4 +26,5 @@ Our Lab club and workshops are held on a variety of topics. More specifically th
 
 We are also interested in bioart, fermentation, chemistry, fashion and crafts.
 
-You can book us to run a workshop at your event or venue. Please get in touch via email or contact form.
+#### You can book us to run a workshop at your event or venue. Please get in touch via email or contact form.
+
