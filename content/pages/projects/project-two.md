@@ -7,10 +7,6 @@ client: ''
 description: >-
   You can book to use Lab facilities in Glasgow. Check booking information and
   equipment here.
-media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
